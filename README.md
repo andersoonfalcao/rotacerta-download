@@ -4,7 +4,7 @@ Baixe o app aqui (sempre a última versão):
 
 **https://github.com/andersoonfalcao/rotacerta-download/raw/main/RotaCerta.apk**
 
-- Versão atual: **1.0.8**
+- Versão atual: **1.0.9**
 - Android 11 ou mais novo
 - Acesso por convite: é preciso um login cadastrado.
 
